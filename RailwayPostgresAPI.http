@@ -1,0 +1,6 @@
+@RailwayPostgresAPI_HostAddress = http://localhost:5243
+
+GET {{RailwayPostgresAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
